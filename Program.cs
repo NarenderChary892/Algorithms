@@ -7,8 +7,11 @@ namespace Algorithms {
       //LinearSearch ls = new LinearSearch();
       //ls.GetLinearSearch();
 
-      BinarySearch bs = new BinarySearch();
-      bs.GetBinarySearch();
+      //BinarySearch bs = new BinarySearch();
+      //bs.GetBinarySearch();
+
+      JumpSearch js = new JumpSearch();
+      js.GetJumpSearch();
       
       Console.ReadKey();
     }
