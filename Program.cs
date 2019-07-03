@@ -1,9 +1,12 @@
 ﻿using System;
+using Algorithms.Searching;
 
 namespace Algorithms {
   class Program {
     static void Main( string[] args ) {
-      Console.WriteLine( "Hello World!" );
+      LinearSearch ls= new LinearSearch();
+      ls.GetLineaarSeach();
+      
       Console.ReadKey();
     }
   }
