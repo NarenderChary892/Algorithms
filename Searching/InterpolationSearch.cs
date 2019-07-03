@@ -44,13 +44,16 @@ namespace Algorithms.Searching {
       while ( lower <= higher && arr[lower] <= searchElement && arr[higher] >= searchElement ) {
         if ( lower == higher ) return 0;
         var position = lower + ( ( searchElement - arr[lower] ) * ( higher - lower ) / ( arr[higher] - arr[lower] ) );
+        // if mid element is search element
         if ( searchElement == arr[position] ) {
           return position;
         }
 
+        //  searchElement is greater than mid element
         if ( arr[position] < searchElement ) {
           return InterpolationSearchImplementation( arr, searchElement, position + 1, higher );
         }
+        // searchElement is less than mid element
         return InterpolationSearchImplementation( arr, searchElement, lower, position - 1 );
       }
       return -1;
