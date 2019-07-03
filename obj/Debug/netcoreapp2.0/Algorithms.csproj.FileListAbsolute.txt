@@ -8,3 +8,4 @@ C:\Users\Operations01\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp2.0
 C:\Users\Operations01\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.AssemblyInfo.cs
 C:\Users\Operations01\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.dll
 C:\Users\Operations01\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.pdb
+C:\Users\Operations01\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.csprojAssemblyReference.cache

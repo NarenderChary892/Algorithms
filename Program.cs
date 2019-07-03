@@ -10,8 +10,11 @@ namespace Algorithms {
       //BinarySearch bs = new BinarySearch();
       //bs.GetBinarySearch();
 
-      JumpSearch js = new JumpSearch();
-      js.GetJumpSearch();
+      //JumpSearch js = new JumpSearch();
+      //js.GetJumpSearch();
+
+      InterpolationSearch ish = new InterpolationSearch();
+      ish.GetInterpolationSearch();
       
       Console.ReadKey();
     }
