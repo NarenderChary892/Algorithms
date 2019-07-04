@@ -1,5 +1,6 @@
 ﻿using System;
 using Algorithms.Searching;
+using Algorithms.Sorting;
 
 namespace Algorithms {
   class Program {
@@ -13,8 +14,14 @@ namespace Algorithms {
       //JumpSearch js = new JumpSearch();
       //js.GetJumpSearch();
 
-      InterpolationSearch ish = new InterpolationSearch();
-      ish.GetInterpolationSearch();
+      //InterpolationSearch ish = new InterpolationSearch();
+      //ish.GetInterpolationSearch();
+
+      //SelectionSort ss = new SelectionSort();
+      //ss.GetSelectionSort();
+
+      BubbleSort bSort = new BubbleSort();
+      bSort.GetBubbleSort();
       
       Console.ReadKey();
     }
