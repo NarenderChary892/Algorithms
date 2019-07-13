@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Algorithms.Searching {
+namespace AlgorithmsAndDataStructures.Algorithms.Searching {
   internal class JumpSearch {
     public void GetJumpSearch() {
 

@@ -1,0 +1,11 @@
+C:\Users\Operations01\source\repos\Algorithms\Algorithms\bin\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.deps.json
+C:\Users\Operations01\source\repos\Algorithms\Algorithms\bin\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.runtimeconfig.json
+C:\Users\Operations01\source\repos\Algorithms\Algorithms\bin\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.runtimeconfig.dev.json
+C:\Users\Operations01\source\repos\Algorithms\Algorithms\bin\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.dll
+C:\Users\Operations01\source\repos\Algorithms\Algorithms\bin\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.pdb
+C:\Users\Operations01\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.csprojAssemblyReference.cache
+C:\Users\Operations01\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Operations01\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.AssemblyInfoInputs.cache
+C:\Users\Operations01\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.AssemblyInfo.cs
+C:\Users\Operations01\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.dll
+C:\Users\Operations01\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.pdb

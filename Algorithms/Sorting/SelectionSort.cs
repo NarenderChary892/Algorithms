@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Algorithms.Sorting {
+namespace AlgorithmsAndDataStructures.Algorithms.Sorting {
   internal class SelectionSort {
     public void GetSelectionSort() {
       /*

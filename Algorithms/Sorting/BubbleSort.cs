@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Algorithms.Sorting {
+namespace AlgorithmsAndDataStructures.Algorithms.Sorting {
   internal class BubbleSort {
     internal void GetBubbleSort() {
       /*

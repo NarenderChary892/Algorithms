@@ -670,9 +670,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Operations01\\source\\repos\\Algorithms\\Algorithms\\Algorithms.csproj",
-      "projectName": "Algorithms",
-      "projectPath": "C:\\Users\\Operations01\\source\\repos\\Algorithms\\Algorithms\\Algorithms.csproj",
+      "projectUniqueName": "C:\\Users\\Operations01\\source\\repos\\Algorithms\\Algorithms\\AlgorithmsAndDataStructures.csproj",
+      "projectName": "AlgorithmsAndDataStructures",
+      "projectPath": "C:\\Users\\Operations01\\source\\repos\\Algorithms\\Algorithms\\AlgorithmsAndDataStructures.csproj",
       "packagesPath": "C:\\Users\\Operations01\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Operations01\\source\\repos\\Algorithms\\Algorithms\\obj\\",
       "projectStyle": "PackageReference",
